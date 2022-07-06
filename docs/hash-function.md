@@ -1,3 +1,6 @@
+---
+tags: decentralized-trust-protocol
+---
 # Hash Functions
 
 - [Cryptogrphic hash function sandbox](https://emn178.github.io/online-tools/sha256.html)
