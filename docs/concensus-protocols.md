@@ -1,5 +1,5 @@
 ---
-tags: consensus-protocols, distributed-coordination, distributed-network
+tags: consensus-protocols, distributed-coordination, distributed-network, distributed-system
 ---
 # Consensus Protocols
 
@@ -42,5 +42,8 @@ Fault tolerance is a formal description of resilience.
 How many bad nodes can we have in a system before the system ceases to propagate state?
 
 The most amount of fault a *distributed* network can absorb is one-third.
+
+Related:
+[[distributed-system-properties]]
 
 [Byzantine Fault Tolerance](https://en.wikipedia.org/wiki/Byzantine_fault)
