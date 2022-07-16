@@ -1,6 +1,5 @@
 ---
-tags: distributed-network,
-consensus-protocols, decentralized-trust-protocol, proof-of-work
+tags: distributed-network,consensus-protocols, decentralized-trust-protocol, proof-of-work
 ---
 # Proof of Work (Elements)
 
